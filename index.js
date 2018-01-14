@@ -13,9 +13,9 @@ function yourAnimal() {
 }
 
 function add2(n) {
-  n=775
+  n=777
 }
-return n + two
+return n 
   // Feel free to move things around!
 
 
